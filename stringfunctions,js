@@ -1,0 +1,8 @@
+let s="That is a string";
+
+let x= s.includes("is");
+console.log(x);
+let y=s.replace("is","was");
+console.log(y)
+let z=s.split(" ");
+console.log(z)
