@@ -9,3 +9,4 @@ function CreateCat(name,breed,sound){
 let anotherCat= new CreateCat("hurair","persian","Meow");
 console.log("Another cat with contructor function");
 console.log(anotherCat);
+anotherCat.sound();
