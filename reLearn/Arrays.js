@@ -7,5 +7,5 @@ for (const model of ai_models) {
 
 // iteration using the for-in loop 
 for (const index in ai_models) {
-    console.log(ai_models[model]);
+    console.log(ai_models[index]);
 }
